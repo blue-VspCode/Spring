@@ -1,2 +1,2 @@
 # Spring
-My spring Projects and learning
+My Spring Projects and learning
